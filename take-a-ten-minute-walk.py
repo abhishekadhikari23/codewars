@@ -1,5 +1,5 @@
 '''
-
+# 2019-08-16
 
         https://www.codewars.com/kata/take-a-ten-minute-walk/
 
