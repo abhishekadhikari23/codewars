@@ -49,4 +49,6 @@ def find_outlier(integers):
 
 s = input()
 print(find_outlier(list(map(int, s.split()))))
+
+'''By Abhishek Adhikari'''
             
